@@ -1,2 +1,2 @@
 print("Hi")
-print("online waren tharuka")
+print("offline palayung tharuka")
